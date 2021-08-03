@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(180deg, #392d95 0%, #a4a6a0 100%);
+    background-repeat: no-repeat;
+    color: white;
+   
+
+}
+
+
+#header {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.topics {
+
+text-align: center;
+border-style: solid;
+display: flex;
+justify-content:
+
+
+}
+
